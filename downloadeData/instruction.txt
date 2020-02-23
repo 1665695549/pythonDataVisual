@@ -1,0 +1,2 @@
+make temperature graphy with temperature data in CSV format. Make world population map 
+with populatuion data in JSON format.
